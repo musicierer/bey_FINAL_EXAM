@@ -1,0 +1,23 @@
+.icon-chem {
+  background-image: url(../img/sprite.png);
+  background-position: 0px 0px;
+  width: 41px;
+  height: 40px; }
+
+.icon-coffee {
+  background-image: url(../img/sprite.png);
+  background-position: 0px -40px;
+  width: 40px;
+  height: 40px; }
+
+.icon-plane {
+  background-image: url(../img/sprite.png);
+  background-position: -40px -40px;
+  width: 40px;
+  height: 40px; }
+
+.icon-tv {
+  background-image: url(../img/sprite.png);
+  background-position: -41px 0px;
+  width: 41px;
+  height: 40px; }
